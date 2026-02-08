@@ -12,4 +12,4 @@ This CSV dataset contains detailed transactional records of global chocolate pro
 
 ## Methodology Diagram
 
-![Methodology Diagram](methodology.png)
+![Methodology Diagram](ML_Lab2.png)
